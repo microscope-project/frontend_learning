@@ -1,0 +1,11 @@
+{
+  "name": "demo1",
+  "version": "1.0.0",
+  "description": "vue 组件开发例子",
+  "main": "dispatch.js",
+  "scripts": {
+    "start": "node dispatch.js"
+  },
+  "author": "hyj1991",
+  "license": "ISC"
+}
